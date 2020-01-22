@@ -1,0 +1,44 @@
+.hide {
+	display: none;
+}
+
+.font {
+	font-size: 25px;
+	color: red;
+}
+
+.border1 {
+	border: 5px solid red;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.coloranim {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	padding: 10px;
+}
+
+ul.menu {
+	width: 50%;
+	padding-left: 10px;
+}
+.highlight {
+	background-color: yellow;
+}
+
+ul.sort1, ul.sort2 {
+	list-style-type: none;
+}
+
+ul.sort1 li, ul.sort2 li {
+	padding: 10px;
+	margin-top: 5px;
+}
+.dropdown-menu {
+	left: 90%;
+	width: 200px;
+}
